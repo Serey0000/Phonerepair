@@ -3,7 +3,7 @@
     <body>
         <head>
             <title>Ремонт телефонов</title>
-            <link rel="stylesheet" href="style.css"/>
+            <link rel="stylesheet" href="style.css.txt"/>
         </head>
         <header>
             <a href="#price">Прайс-лист</a> <a href="#reviews">Отзывы</a> <a href="#photos">Фотографии</a>
